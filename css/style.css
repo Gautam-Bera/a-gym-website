@@ -277,7 +277,7 @@ a {
 section.introduction {
   position: relative;
   text-align: center;
-  background-image: url("../images/bg.jpg");
+  background-image: url("../images/intro.jpg");
   background-size: 70rem; 
   background-position: center ;
   background-repeat: no-repeat;
